@@ -1,3 +1,4 @@
+!(image.png)
 
 # Workshop on inequality and stratification research
 
