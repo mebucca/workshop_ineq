@@ -1,6 +1,6 @@
-![image](image.png)
-
 # Workshop on inequality and stratification research
+
+![image](image.png)
 
 This workshop is a forum for academic discussion on these issues, understood in a broad sense. In each session, a presenter will discuss their academic work and receive feedback from the audience. Works in any stage of development are welcome, from ideas, preliminary results, to completed manuscripts.
 
