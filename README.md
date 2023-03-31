@@ -14,6 +14,9 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 ## When
 
+
+Martes 2 de Mayo
+
 The workshop will be held in person, but in case of need, it will be possible to present through Zoom and follow the presentations via streaming. The sessions will take place on the first Tuesday of each month at 2:30 p.m., starting with Tuesday, April 4th.
 
 ## Where
