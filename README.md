@@ -14,7 +14,7 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 ## When
 
-Tuesday, May 2nd, 2023.
+**Next presentation:** Tuesday, May 2nd, 2023.
 
 **Full Schedule:**
 
