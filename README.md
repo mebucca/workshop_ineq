@@ -15,11 +15,16 @@ This workshop is a forum for academic discussion on these issues, understood in 
 ## When
 
 
-Martes 2 de Mayo
+
+[Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zNjRlZDk1MDc4OTc3ZjJjODY0YmNiODI4M2YzNjk0NzA3NzEyNTY3YzRjNDk1ZjhkMzBlNzM5ZGY5N2VhZTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_364ed95078977f2c864bcb8283f3694707712567c4c495f8d30e739df97eae27%40group.calendar.google.com&ctz=America%2FSantiago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+## Where
 
 The workshop will be held in person, but in case of need, it will be possible to present through Zoom and follow the presentations via streaming. The sessions will take place on the first Tuesday of each month at 2:30 p.m., starting with Tuesday, April 4th.
 
-## Where
 
 TBD
 
