@@ -41,11 +41,4 @@ The workshop will be held in person, but in case of need, it will be possible to
 
 **Streaming:**  [`[Link]`]()
 
-## To present
-
-The workshop is open to the general public, either as an audience member or as a presenter. If anyone wishes to present, please register using the following link.
-
-[Register here](https://docs.google.com/spreadsheets/d/1mjq9ksRDpfwyAf8MZy-dkBewtO-Jlgy2URlOEltlDKM/edit?usp=sharing)
-
-
 
