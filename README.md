@@ -18,8 +18,6 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 [Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zNjRlZDk1MDc4OTc3ZjJjODY0YmNiODI4M2YzNjk0NzA3NzEyNTY3YzRjNDk1ZjhkMzBlNzM5ZGY5N2VhZTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%234285F4&ctz=America%2FSantiago&hl=en&src=Y18zNjRlZDk1MDc4OTc3ZjJjODY0YmNiODI4M2YzNjk0NzA3NzEyNTY3YzRjNDk1ZjhkMzBlNzM5ZGY5N2VhZTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23AD1457" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## Where
 
 The workshop will be held in person, but in case of need, it will be possible to present through Zoom and follow the presentations via streaming. The sessions will take place on the first Tuesday of each month at 2:30 p.m., starting with Tuesday, April 4th.
