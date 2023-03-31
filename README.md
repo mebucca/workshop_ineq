@@ -16,7 +16,22 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 Tuesday, May 2nd, 2023.
 
-`[[Calendar]]`(https://calendar.google.com/calendar/u/0?cid=Y18zNjRlZDk1MDc4OTc3ZjJjODY0YmNiODI4M2YzNjk0NzA3NzEyNTY3YzRjNDk1ZjhkMzBlNzM5ZGY5N2VhZTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+**Full Schedule:**
+
+| Sesion  	| Date 	| Presenter 	| Title 	|
+|---	|---	|---	|---	|
+| 1 	| Martes 2 de Mayo 	| Mauricio Bucca & Lucas Drouhot 	| Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France 	|
+| 2 	| Martes 6 de Junio 	|  	|  	|
+| 3 	| Martes 4 de Julio 	| Sesión reservada a estudiantes de pregrado o master 	|  	|
+| 4 	| Martes 1 de Agosto 	| Francisco Ceron & Andrea Canales 	| The Positional Value of Education in the Americas: Dynamics of Inequality in Labour Market Returns under Educational Expansion 	|
+| 5 	| Martes 5 de Septiembre 	| Tania Hutt 	| A New Dimension of the Motherhood Penalty: Perceptions of Future Childbearing Risk 	|
+| 6 	| Martes 3 de Octubre 	| Matías Fernández 	| Not seeing the dirt: organizational prophylaxis and the foundations of status in the police 	|
+| 7 	| Martes 1 de Noviembre 	| Naim Bro 	| Brahmins and Merchants in Santiago, Chile? A geospatial approach 	|
+| 8 	| Martes 7 de Diciembre 	| Rafael Carranza 	| The role of social class in shaping income inequality: A decomposition over the long-run 	|
+| 9 	| Martes 9 de Enero 	|  	|  	|
+
+
+[`[Link to Calendar]`](https://calendar.google.com/calendar/u/0?cid=Y18zNjRlZDk1MDc4OTc3ZjJjODY0YmNiODI4M2YzNjk0NzA3NzEyNTY3YzRjNDk1ZjhkMzBlNzM5ZGY5N2VhZTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 ## Where
 
