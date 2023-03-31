@@ -14,9 +14,9 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 ## When
 
+Tuesday, May 2nd, 2023.
 
-
-[Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zNjRlZDk1MDc4OTc3ZjJjODY0YmNiODI4M2YzNjk0NzA3NzEyNTY3YzRjNDk1ZjhkMzBlNzM5ZGY5N2VhZTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+`[[Calendar]]`(https://calendar.google.com/calendar/u/0?cid=Y18zNjRlZDk1MDc4OTc3ZjJjODY0YmNiODI4M2YzNjk0NzA3NzEyNTY3YzRjNDk1ZjhkMzBlNzM5ZGY5N2VhZTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 ## Where
 
