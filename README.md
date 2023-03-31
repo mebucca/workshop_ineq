@@ -35,10 +35,11 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 ## Where
 
-The workshop will be held in person, but in case of need, it will be possible to present through Zoom and follow the presentations via streaming. The sessions will take place on the first Tuesday of each month at 2:30 p.m., starting with Tuesday, April 4th.
+The workshop will be held in person, but in case of need, it will be possible to present through Zoom and follow the presentations via streaming. 
 
+**Room:** TBD
 
-TBD
+**Streaming:**  [`[Link]`]()
 
 ## To present
 
