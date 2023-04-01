@@ -21,7 +21,7 @@ This workshop is a forum for academic discussion on these issues, understood in 
 | Sesion  	| Date 	| Presenter 	| Title 	|
 |---	|---	|---	|---	|
 | 1 	| Martes 2 de Mayo 	| Mauricio Bucca & Lucas Drouhot 	| Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France 	|
-| 2 	| Martes 6 de Junio 	|  	|  	|
+| 2 	| Martes 6 de Junio 	| Pablo Geraldo 	| Secondary Effects of Free College in Chile 	|
 | 3 	| Martes 4 de Julio 	| Sesión reservada a estudiantes de pregrado o master 	|  	|
 | 4 	| Martes 1 de Agosto 	| Francisco Ceron & Andrea Canales 	| The Positional Value of Education in the Americas: Dynamics of Inequality in Labour Market Returns under Educational Expansion 	|
 | 5 	| Martes 5 de Septiembre 	| Tania Hutt 	| A New Dimension of the Motherhood Penalty: Perceptions of Future Childbearing Risk 	|
