@@ -26,8 +26,8 @@ This workshop is a forum for academic discussion on these issues, understood in 
 | 4 	| Martes 1 de Agosto 	| Francisco Ceron & Andrea Canales 	| The Positional Value of Education in the Americas: Dynamics of Inequality in Labour Market Returns under Educational Expansion 	|
 | 5 	| Martes 5 de Septiembre 	| Tania Hutt 	| A New Dimension of the Motherhood Penalty: Perceptions of Future Childbearing Risk 	|
 | 6 	| Martes 3 de Octubre 	| Matías Fernández 	| Not seeing the dirt: organizational prophylaxis and the foundations of status in the police 	|
-| 7 	| Martes 1 de Noviembre 	| Naim Bro 	| Brahmins and Merchants in Santiago, Chile? A geospatial approach 	|
-| 8 	| Martes 7 de Diciembre 	| Rafael Carranza 	| The role of social class in shaping income inequality: A decomposition over the long-run 	|
+| 7 	| Martes 5 de Noviembre 	| Naim Bro 	| Brahmins and Merchants in Santiago, Chile? A geospatial approach 	|
+| 8 	| Martes 5 de Diciembre 	| Rafael Carranza 	| The role of social class in shaping income inequality: A decomposition over the long-run 	|
 | 9 	| Martes 9 de Enero 	|  	|  	|
 
 
