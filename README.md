@@ -36,7 +36,7 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 ## Where
 
-The workshop will be held in person at Room #1, Escuela de Trabajo Social, Campus San Joaquín UC: [`[Map]`](https://www.google.com/maps/place/School+of+Social+Work/@-33.4992583,-70.6123012,17z/data=!4m14!1m7!3m6!1s0x9662d00df9f173f1:0x24aa8b51f5014d86!2sSchool+of+Social+Work!8m2!3d-33.4992481!4d-70.6101206!16s%2Fg%2F11g_7bgt6!3m5!1s0x9662d00df9f173f1:0x24aa8b51f5014d86!8m2!3d-33.4992481!4d-70.6101206!16s%2Fg%2F11g_7bgt6)
+The workshop will be held in person in Room #1, Escuela de Trabajo Social, Campus San Joaquín UC: [`[Map]`](https://www.google.com/maps/place/School+of+Social+Work/@-33.4992583,-70.6123012,17z/data=!4m14!1m7!3m6!1s0x9662d00df9f173f1:0x24aa8b51f5014d86!2sSchool+of+Social+Work!8m2!3d-33.4992481!4d-70.6101206!16s%2Fg%2F11g_7bgt6!3m5!1s0x9662d00df9f173f1:0x24aa8b51f5014d86!8m2!3d-33.4992481!4d-70.6101206!16s%2Fg%2F11g_7bgt6)
 
 In case of need, it will be possible to present through Zoom and follow the presentations via streaming. 
 
