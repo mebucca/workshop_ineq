@@ -18,7 +18,7 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 **Full Schedule:**
 
-| Sesion  	| Date 	| Presenter 	| Title 	|
+| Session  	| Date 	| Presenter 	| Title 	|
 |---	|:---:	|---	|---	|
 | 1 	| 2/5/2023 	| Mauricio Bucca & Lucas Drouhot 	| Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France 	|
 | 2 	| 6/6/2023 	| Pablo Geraldo 	| Secondary Effects of Free College in Chile 	|
