@@ -16,8 +16,6 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 ## When
 
-**Time:** 14:30 - 15:30
-
 **Full Schedule:**
 
 | Sesion  	| Date 	| Presenter 	| Title 	|
@@ -32,6 +30,7 @@ This workshop is a forum for academic discussion on these issues, understood in 
 | 8 	| 5/12/2023 	| Rafael Carranza 	| The role of social class in shaping income inequality: A decomposition over the long-run 	|
 | 9 	| 9/1/2024 	| Roberto Velasquez-Quiroz 	| Networks of Value Distribution: The InterorganizationaI Field of Contemporary Art 	|
 
+**Time:** 14:30 - 15:30
 
 [`[Link to Calendar]`](https://calendar.google.com/calendar/u/0?cid=Y18zNjRlZDk1MDc4OTc3ZjJjODY0YmNiODI4M2YzNjk0NzA3NzEyNTY3YzRjNDk1ZjhkMzBlNzM5ZGY5N2VhZTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
