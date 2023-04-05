@@ -7,6 +7,7 @@ This workshop is a forum for academic discussion on these issues, understood in 
 ## Next Presentation
 
 Tuesday, May 2nd, 2023
+
 **Mauricio Bucca<sup>†</sup>** & Lucas Drouhot<sup>††</sup>, *Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France*
 
 <sup>†</sup>PUC, Chile <sup>††</sup>University of Utrecht, The Netherlands.
