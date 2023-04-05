@@ -20,15 +20,15 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 | Session  	| Date 	| Presenter 	| Title 	|
 |---	|:---:	|---	|---	|
-| 1 	| 2/5/2023 	| Mauricio Bucca & Lucas Drouhot 	| Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France 	|
-| 2 	| 6/6/2023 	| Pablo Geraldo 	| Secondary Effects of Free College in Chile 	|
+| 1 	| 2/5/2023 	| [Mauricio Bucca](https://mebucca.github.io) & [Lucas Drouhot](https://www.lucasdrouhot.com) 	| Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France 	|
+| 2 	| 6/6/2023 	| [Pablo Geraldo](https://www.pablogeraldo.com) 	| Secondary Effects of Free College in Chile 	|
 | 3 	| 4/7/2023 	| Sesión reservada a estudiantes de pregrado o master 	|  	|
-| 4 	| 1/8/2023 	| Francisco Ceron & Andrea Canales 	| The Positional Value of Education in the Americas: Dynamics of Inequality in Labour Market Returns under Educational Expansion 	|
-| 5 	| 5/9/2023 	| Tania Hutt 	| A New Dimension of the Motherhood Penalty: Perceptions of Future Childbearing Risk 	|
-| 6 	| 3/10/2023 	| Matías Fernández 	| Not seeing the dirt: organizational prophylaxis and the foundations of status in the police 	|
-| 7 	| 7/11/2023 	| Naim Bro 	| Brahmins and Merchants in Santiago, Chile? A geospatial approach 	|
-| 8 	| 5/12/2023 	| Rafael Carranza 	| The role of social class in shaping income inequality: A decomposition over the long-run 	|
-| 9 	| 9/1/2024 	| Roberto Velasquez-Quiroz 	| Networks of Value Distribution: The InterorganizationaI Field of Contemporary Art 	|
+| 4 	| 1/8/2023 	| [Francisco Ceron](https://sites.google.com/view/franciscoceron?pli=1) & [Andrea Canales](https://sociologia.uc.cl/profesor/andrea-canales-hernandez/) 	| The Positional Value of Education in the Americas: Dynamics of Inequality in Labour Market Returns under Educational Expansion 	|
+| 5 	| 5/9/2023 	| [Tania Hutt](https://sociology.unc.edu/people-page/tania-cabello-hutt/) 	| A New Dimension of the Motherhood Penalty: Perceptions of Future Childbearing Risk 	|
+| 6 	| 3/10/2023 	| [Matías Fernández](https://sociologia.uc.cl/profesor/matias-fernandez/) 	| Not seeing the dirt: organizational prophylaxis and the foundations of status in the police 	|
+| 7 	| 7/11/2023 	| [Naim Bro](https://naimbro.github.io) 	| Brahmins and Merchants in Santiago, Chile? A geospatial approach 	|
+| 8 	| 5/12/2023 	| [Rafael Carranza](https://sites.google.com/view/rcarranzan/) 	| The role of social class in shaping income inequality: A decomposition over the long-run 	|
+| 9 	| 9/1/2024 	| [Roberto Velasquez-Quiroz](https://scholar.google.com/citations?hl=en&user=2eRLSVAAAAAJ&view_op=list_works&sortby=pubdate) 	| Networks of Value Distribution: The InterorganizationaI Field of Contemporary Art 	|
 
 **Time:** 14:30 - 15:30
 
