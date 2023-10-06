@@ -8,11 +8,11 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 **Tuesday, May 2nd, 2023, 14:30 - 15:30**
 
-**Mauricio Bucca<sup>†</sup>** & Lucas Drouhot<sup>††</sup>, *Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France*
+**Andrea Canales<sup>†</sup>**, *Gender and the career choice process: An experiment to understand the gender gaps in STEM college majors*
 
-<sup>†</sup>PUC, Chile <sup>††</sup>University of Utrecht, The Netherlands.
+<sup>†</sup>PUC, Chile.
 
-> **Abstract:** Intermarriage between native- and immigrant-origin populations has traditionally been considered a tell-tale sign of assimilation among migration researchers. In Western Europe, a large and recent literature has identified the Muslim/non-Muslim boundary as a key relational and symbolic divide partially blocking assimilation - as exemplified in the low rates of intermarriage among the second-generation documented in prior work and typically attributed to cultural constraints, such as the transmission of family norms and high levels of individual religiosity. To appreciate the role of social boundaries in constraining intermarriage rates between second-generation Muslims and third-plus generation natives, we appraise the role of two separate factors: ethno-religious barriers on one hand, and educational assortative mating on the other hand. Furthermore, by looking at patterns of status exchange, we investigate whether barriers to intermarriage  emerge from hierarchical stratification or horizontal differentiation. Empirically, we focus on France - the European countries with the highest share of self-identified Muslims - and use log-linear models on high quality survey data featuring a large sample of natives and second-generation Muslim respondents. We find strong barriers to intermarriage between native and second generation Muslims, where the resulting shortage of mixed couples is largely independent of dynamics of educational assortative mating. We also find some evidence of exchange between "nativity capital" and "educational capital" in mixed couples, which suggests that minority status operates *de facto* as an stratifying factor.
+> **Abstract:** here.
 
 ## When
 
@@ -25,14 +25,11 @@ This workshop is a forum for academic discussion on these issues, understood in 
 | 3 	| 4/7/2023 	| Sesión reservada a estudiantes de pregrado o master 	|  	|
 | 4 	| 1/8/2023 	| [Francisco Ceron](https://sites.google.com/view/franciscoceron?pli=1) & [Andrea Canales](https://sociologia.uc.cl/profesor/andrea-canales-hernandez/) 	| The Positional Value of Education in the Americas: Dynamics of Inequality in Labour Market Returns under Educational Expansion 	|
 | 5 	| 5/9/2023 	| [Tania Hutt](https://sociology.unc.edu/people-page/tania-cabello-hutt/) 	| A New Dimension of the Motherhood Penalty: Perceptions of Future Childbearing Risk 	|
-| 6 	| 3/10/2023 	| [Matías Fernández](https://sociologia.uc.cl/profesor/matias-fernandez/) 	| Not seeing the dirt: organizational prophylaxis and the foundations of status in the police 	|
+| 6 	| 17/10/2023 	| [Andrea Canales](https://sociologia.uc.cl/profesor/andrea-canales-hernandez/) 	| Gender and the career choice process: An experiment to understand the gender gaps in STEM college majors. 	|
 | 7 	| 7/11/2023 	| [Naim Bro](https://naimbro.github.io) 	| Brahmins and Merchants in Santiago, Chile? A geospatial approach 	|
 | 8 	| 5/12/2023 	| [Rafael Carranza](https://sites.google.com/view/rcarranzan/) 	| The role of social class in shaping income inequality: A decomposition over the long-run 	|
 | 9 	| 9/1/2024 	| [Roberto Velasquez-Quiroz](https://scholar.google.com/citations?hl=en&user=2eRLSVAAAAAJ&view_op=list_works&sortby=pubdate) 	| Networks of Value Distribution: The InterorganizationaI Field of Contemporary Art 	|
 
-**Time:** 14:30 - 15:30
-
-[`[Link to Calendar]`](https://calendar.google.com/calendar/u/0?cid=Y18zNjRlZDk1MDc4OTc3ZjJjODY0YmNiODI4M2YzNjk0NzA3NzEyNTY3YzRjNDk1ZjhkMzBlNzM5ZGY5N2VhZTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 ## Where
 
