@@ -6,7 +6,7 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 ## Next Presentation
 
-**Tuesday, May 2nd, 2023, 14:30 - 15:30**
+**Tuesday, October 17th, 2023, 14:30 - 15:30**
 
 **Andrea Canales<sup>†</sup>**, *Gender and the career choice process: An experiment to understand the gender gaps in STEM college majors*
 
