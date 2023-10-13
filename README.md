@@ -12,7 +12,9 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 <sup>†</sup>PUC, Chile.
 
-> **Abstract:** here.
+> **Abstract:** In most Western countries, women continue lagging behind men in their participation in STEM areas, but these gaps have been closing over time (Charles & Bradley, 2009; Mann & DiPrete, 2013). While differences in ability explain little of the gender gap (Cheryan et al., 2017; Ceci et al., 2014), differences in beliefs about performance may play a more salient role in these disparities. Prior research has shown persistent differences in men's and women's perceptions of their performance in quantitative domains (Niederle & Vesterlund, 2007), with women reporting lower self-assessment in their math abilities than men (Correll, 2001; Riegle-Crumb et al., 2011). 
+
+ It is well established that students with firmer beliefs about their math ability are more likely to choose STEM fields. However, causal evidence on this mechanism is limited. In this study, we employ multiple data sources- experimental, survey, and administrative data - to establish how students' beliefs about their math performance affect the gender gap in the applications to STEM majors. Results show that most students – men and women- overestimate their performance in math. However, a greater proportion of women underestimate their performance in this area. Providing information (experimental intervention) to students on their performance triggered them to modify their major choices (applications) only marginally.
 
 ## When
 
