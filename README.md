@@ -9,15 +9,15 @@ This workshop is a forum for academic discussion on these issues, understood in 
 
 | Session  	| Date 	| Presenter 	| Title 	|
 |---	|:---:	|---	|---	|
-| 1 	| 2/5/2025 	| [Mauricio Bucca](https://mebucca.github.io) & [Lucas Drouhot](https://www.lucasdrouhot.com) 	| Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France 	|
-| 2 	| 6/6/2025 	| [Pablo Geraldo](https://www.pablogeraldo.com) 	| Secondary Effects of Free College in Chile 	|
-| 3 	| 4/7/2025 	| Sesión reservada a estudiantes de pregrado o master 	|  	|
-| 4 	| 1/8/2025 	| [Francisco Ceron](https://sites.google.com/view/franciscoceron?pli=1) & [Andrea Canales](https://sociologia.uc.cl/profesor/andrea-canales-hernandez/) 	| The Positional Value of Education in the Americas: Dynamics of Inequality in Labour Market Returns under Educational Expansion 	|
-| 5 	| 5/9/2025 	| [Tania Hutt](https://sociology.unc.edu/people-page/tania-cabello-hutt/) 	| A New Dimension of the Motherhood Penalty: Perceptions of Future Childbearing Risk 	|
-| 6 	| 17/10/2025 	| [Andrea Canales](https://sociologia.uc.cl/profesor/andrea-canales-hernandez/) 	| Gender and the career choice process: An experiment to understand the gender gaps in STEM college majors. 	|
-| 7 	| 7/11/2025 	| [Naim Bro](https://naimbro.github.io) 	| Brahmins and Merchants in Santiago, Chile? A geospatial approach 	|
-| 8 	| 5/12/2025 	| [Rafael Carranza](https://sites.google.com/view/rcarranzan/) 	| The role of social class in shaping income inequality: A decomposition over the long-run 	|
-| 9 	| 9/1/2024 	| [Roberto Velasquez-Quiroz](https://scholar.google.com/citations?hl=en&user=2eRLSVAAAAAJ&view_op=list_works&sortby=pubdate) 	| Networks of Value Distribution: The InterorganizationaI Field of Contemporary Art 	|
+| 1 	| 5/2025 	| [Mauricio Bucca](https://mebucca.github.io) & [Lucas Drouhot](https://www.lucasdrouhot.com) 	| Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France 	|
+| 2 	| 6/2025 	| [Pablo Geraldo](https://www.pablogeraldo.com) 	| Secondary Effects of Free College in Chile 	|
+| 3 	| 7/2025 	| Sesión reservada a estudiantes de pregrado o master 	|  	|
+| 4 	| 8/2025 	| [Francisco Ceron](https://sites.google.com/view/franciscoceron?pli=1) & [Andrea Canales](https://sociologia.uc.cl/profesor/andrea-canales-hernandez/) 	| The Positional Value of Education in the Americas: Dynamics of Inequality in Labour Market Returns under Educational Expansion 	|
+| 5 	| 9/2025 	| [Tania Hutt](https://sociology.unc.edu/people-page/tania-cabello-hutt/) 	| A New Dimension of the Motherhood Penalty: Perceptions of Future Childbearing Risk 	|
+| 6 	| 10/2025 	| [Andrea Canales](https://sociologia.uc.cl/profesor/andrea-canales-hernandez/) 	| Gender and the career choice process: An experiment to understand the gender gaps in STEM college majors. 	|
+| 7 	| 11/2025 	| [Naim Bro](https://naimbro.github.io) 	| Brahmins and Merchants in Santiago, Chile? A geospatial approach 	|
+| 8 	| 12/2025 	| [Rafael Carranza](https://sites.google.com/view/rcarranzan/) 	| The role of social class in shaping income inequality: A decomposition over the long-run 	|
+| 9 	| 1/2024 	| [Roberto Velasquez-Quiroz](https://scholar.google.com/citations?hl=en&user=2eRLSVAAAAAJ&view_op=list_works&sortby=pubdate) 	| Networks of Value Distribution: The InterorganizationaI Field of Contemporary Art 	|
 
 
 ## Where
